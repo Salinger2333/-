@@ -17,5 +17,8 @@
 `git push origin feature1`
 10. pull的内部操作其实是把远程仓库取到本地后（使用的是 fetch），再用一次 merge 来把远端仓库的新 commits合并到本地
 11. merge:合并commits
+12. 实践,创建分支,开发新功能并合并
+13. 最流行的团队开发的工作流:Feature Branching
+14. PR实在是太好用了
 
 	
